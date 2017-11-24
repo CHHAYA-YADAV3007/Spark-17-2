@@ -1,0 +1,31 @@
+Mathew,Science,grade-1,55
+Mathew,Social Science,grade-1,55
+Mathew,Medicine Science,grade-1,55
+Pankti,Science,grade-1,65
+Shanaya,Science,grade-1,75
+Aarohi,Science,grade-1,85
+Sayantan,Science,grade-1,81
+Aditya,Science,grade-1,71
+Mathew,Physics,grade-2,55
+Pankti,Physics,grade-2,54
+Shanaya,Physics,grade-2,98
+Aarohi,Physics,grade-2,37
+Sayantan,Physics,grade-2,40
+Aditya,Physics,grade-2,50
+Mathew,Chemistry,grade-3,80
+Pankti,Chemistry,grade-3,35
+Shanaya,Chemistry,grade-3,47
+Aarohi,Chemistry,grade-3,57
+Sayantan,Chemistry,grade-3,67
+Aditya,Chemistry,grade-3,77
+Roohi,Literature,grade-4,87
+Rashi,Literature,grade-4,97
+Bhavya,Literature,grade-4,93
+Nitin,Literature,grade-4,83
+Himaja,Literature,grade-4,73
+Aditya,Quantum Physics,grade-3,77
+Roohi,Interior Designing,grade-4,87
+Rashi,Interior Designing,grade-4,97
+Bhavya,Interior Designing,grade-4,93
+Nitin,Interior Designing,grade-4,83
+Himaja,Interior Designing,grade-4,73
